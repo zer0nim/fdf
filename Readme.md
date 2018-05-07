@@ -49,5 +49,5 @@ Each number corresponds to a point in space:
 
 ## Exemple
 ![julia](../assets/julia.png)
-![julia](../assets/mars.png)
-![julia](../assets/t2.png)
+![mars](../assets/mars.png)
+![t2](../assets/t2.png)
