@@ -41,7 +41,7 @@ Each number corresponds to a point in space:
 
 ## Commands
 
-| Key  | Utility       |
+| Key  | Action       |
 | ---- |:-------------:|
 | wasd | move sideways |
 | arrow| move camera   |
