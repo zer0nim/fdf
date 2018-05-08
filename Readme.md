@@ -34,7 +34,7 @@ Each number corresponds to a point in space:
 ```
 ./fdf map [width height]
 ```
-###### exemple
+###### Example
 ```
 ./fdf maps/mars.fdf 800 800
 ```
